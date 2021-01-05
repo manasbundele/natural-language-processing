@@ -1,0 +1,6096 @@
+None
+None
+Eng 2 3
+None
+None
+Eng 30 32
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+Eng 6 7
+Eng 13 20
+None
+None
+Eng 4 6
+Eng 2 3
+None
+Eng 11 15
+None
+None
+None
+Hin 3 4
+None
+None
+Eng 2 3
+Eng 9 10
+Hin 4 7
+Hin 2 4
+None
+None
+Eng 15 17
+Eng 10 12
+None
+None
+Eng 0 1
+Eng 1 2
+None
+Eng 1 2
+None
+None
+None
+Eng 11 12
+None
+None
+Eng 8 10
+None
+None
+None
+Eng 11 14
+Eng 4 6
+None
+Eng 5 7
+None
+Eng 3 4
+None
+Eng 12 14
+None
+Hin 0 1
+Eng 0 1
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+Eng 0 1
+Eng 17 18
+None
+None
+Eng 6 7
+Eng 4 6
+None
+None
+Eng 4 6
+None
+None
+None
+None
+None
+None
+None
+None
+Eng 5 6
+None
+None
+None
+Eng 0 1
+Eng 8 10
+Hin 2 3
+None
+None
+Eng 9 12
+Eng 6 7
+None
+None
+Eng 0 3
+None
+None
+Eng 9 11
+None
+None
+None
+Hin 2 3
+Eng 5 6
+Eng 2 3
+Eng 5 9
+Eng 22 24
+None
+Hin 0 1
+Eng 2 3
+Eng 8 10
+Eng 29 31
+Eng 4 5
+Eng 5 7
+None
+None
+Eng 9 13
+Eng 7 8
+None
+None
+Eng 2 4
+Eng 0 2
+None
+None
+None
+Eng 0 1
+None
+Eng 8 10
+Eng 9 11
+Hin 0 1
+Hin 5 9
+None
+Eng 0 2
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+Eng 14 18
+None
+None
+Eng 14 15
+None
+Eng 4 6
+Eng 2 4
+None
+Eng 5 6
+Eng 0 1
+None
+Eng 8 11
+None
+Eng 9 11
+Eng 10 11
+None
+None
+Eng 10 11
+Eng 4 7
+Eng 7 8
+None
+None
+Eng 5 6
+None
+None
+None
+None
+Hin 3 5
+None
+None
+None
+Eng 4 5
+None
+Eng 0 1
+None
+None
+Eng 0 1
+None
+None
+None
+Eng 0 1
+None
+None
+None
+None
+Eng 19 21
+None
+None
+None
+None
+None
+None
+None
+None
+Eng 12 14
+None
+Eng 0 1
+Eng 2 3
+Eng 4 6
+None
+Eng 9 17
+None
+None
+None
+None
+None
+None
+Eng 12 13
+Eng 7 8
+None
+Eng 14 16
+Eng 3 4
+None
+None
+Eng 0 1
+None
+Eng 17 19
+None
+None
+None
+Eng 10 11
+Eng 1 2
+Eng 9 10
+Eng 4 5
+None
+None
+Eng 16 17
+None
+None
+Eng 2 6
+Eng 22 24
+Eng 5 6
+None
+None
+None
+Eng 0 1
+Eng 0 1
+None
+None
+Eng 6 8
+None
+Eng 5 7
+Hin 2 4
+Eng 2 3
+None
+Eng 2 3
+Eng 10 14
+Eng 0 2
+Eng 10 12
+None
+None
+None
+Eng 6 7
+None
+None
+Eng 5 6
+None
+None
+Eng 1 2
+Eng 3 4
+None
+Eng 11 14
+None
+Eng 0 1
+None
+None
+Eng 8 12
+Eng 7 8
+None
+None
+Eng 6 8
+None
+None
+Eng 12 15
+Eng 1 2
+Eng 30 31
+Eng 15 18
+Eng 0 1
+None
+Eng 6 7
+Eng 5 6
+None
+None
+None
+Eng 0 2
+Eng 0 2
+Eng 8 9
+None
+Eng 0 2
+Eng 6 7
+None
+None
+None
+Eng 0 4
+None
+None
+None
+None
+None
+None
+Eng 0 1
+None
+None
+None
+None
+Eng 4 6
+Eng 1 3
+Eng 3 4
+None
+None
+None
+Eng 14 16
+None
+None
+None
+None
+None
+None
+None
+Eng 5 6
+Eng 4 6
+Eng 13 15
+Eng 18 20
+Eng 11 12
+Eng 9 12
+Eng 3 4
+None
+Eng 0 1
+None
+Eng 1 2
+Eng 3 5
+Eng 6 9
+Eng 0 1
+None
+Eng 4 5
+Eng 37 39
+None
+Eng 9 10
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+Eng 4 6
+None
+Eng 7 8
+None
+None
+Eng 9 11
+None
+None
+None
+None
+None
+Hin 7 11
+None
+Eng 0 1
+None
+None
+Eng 3 4
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+Eng 2 3
+None
+None
+None
+None
+None
+None
+None
+None
+None
+Eng 7 8
+None
+Eng 0 1
+None
+None
+None
+None
+None
+None
+None
+Eng 18 20
+None
+None
+Eng 3 5
+None
+None
+None
+None
+None
+None
+Eng 8 9
+Eng 1 2
+Eng 1 4
+Eng 0 1
+Eng 2 4
+None
+Eng 5 7
+None
+Eng 0 1
+Eng 0 2
+Eng 17 19
+Eng 8 10
+None
+Eng 21 22
+None
+None
+None
+None
+None
+None
+Hin 5 8
+None
+None
+Eng 0 1
+Eng 0 5
+Eng 13 14
+None
+None
+Eng 3 5
+Eng 16 19
+None
+None
+None
+None
+Eng 0 1
+Eng 3 5
+None
+Eng 2 3
+None
+None
+None
+Eng 4 8
+Eng 3 6
+None
+Eng 2 3
+None
+None
+Eng 0 1
+Hin 0 1
+Eng 0 1
+Eng 11 13
+Eng 0 1
+None
+Eng 11 13
+Eng 0 1
+None
+None
+None
+Eng 5 6
+Eng 11 15
+None
+None
+None
+None
+None
+Eng 0 2
+Eng 0 1
+None
+None
+Eng 0 3
+None
+None
+Eng 0 1
+Eng 8 11
+None
+Eng 9 10
+None
+Eng 0 3
+Eng 21 22
+None
+None
+None
+None
+None
+Eng 0 1
+None
+Eng 11 12
+None
+Eng 0 1
+Eng 12 21
+Eng 15 16
+None
+None
+None
+None
+None
+None
+Eng 12 14
+None
+None
+None
+None
+None
+Eng 20 21
+Eng 3 4
+None
+None
+None
+None
+Eng 0 1
+Eng 3 5
+None
+Eng 6 8
+None
+Eng 2 3
+Eng 0 4
+None
+Hin 0 2
+None
+None
+None
+None
+None
+None
+None
+None
+None
+Eng 5 6
+Eng 7 9
+None
+None
+Eng 25 28
+None
+None
+Eng 12 14
+None
+None
+Hin 2 3
+None
+None
+None
+None
+Eng 4 6
+Eng 4 5
+Eng 1 3
+Eng 3 6
+None
+None
+None
+Hin 9 14
+None
+Eng 14 16
+None
+None
+None
+None
+None
+None
+Eng 4 7
+None
+Eng 0 1
+Hin 3 5
+None
+None
+None
+None
+None
+Eng 8 9
+None
+Eng 2 4
+Eng 7 10
+Hin 0 2
+None
+Eng 4 6
+None
+None
+Eng 0 1
+None
+None
+Eng 0 3
+None
+Eng 1 2
+None
+None
+Hin 2 4
+None
+None
+None
+Eng 7 9
+None
+None
+Eng 40 43
+Eng 0 2
+Eng 21 24
+Eng 3 4
+None
+None
+None
+Eng 3 4
+Eng 8 9
+Eng 0 1
+Eng 0 1
+Eng 3 5
+None
+Eng 11 12
+Eng 2 3
+None
+None
+Eng 14 15
+Eng 18 19
+None
+None
+Eng 4 5
+None
+None
+Eng 0 2
+None
+Eng 17 20
+None
+Eng 16 21
+Eng 2 3
+Eng 6 7
+None
+None
+Eng 0 2
+None
+None
+None
+Eng 1 2
+Eng 16 18
+Hin 4 5
+None
+None
+None
+Eng 0 1
+None
+None
+Eng 8 10
+Eng 4 5
+None
+Eng 1 2
+Eng 4 5
+Eng 6 8
+None
+None
+None
+Eng 21 23
+None
+Hin 3 5
+None
+Eng 1 2
+None
+Eng 0 1
+Eng 7 10
+Eng 38 42
+Eng 3 4
+None
+Hin 0 3
+Eng 5 7
+Eng 0 1
+None
+Eng 0 2
+None
+Hin 0 4
+Eng 2 3
+Eng 22 25
+Eng 0 2
+Eng 2 3
+Eng 4 6
+Eng 0 2
+Eng 0 2
+Eng 8 12
+Eng 8 9
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+Eng 2 3
+None
+Eng 0 1
+None
+None
+None
+None
+None
+None
+Eng 0 1
+None
+Eng 0 1
+Eng 7 10
+None
+None
+Eng 0 4
+None
+Eng 0 2
+None
+None
+None
+Eng 4 5
+Eng 6 7
+None
+None
+None
+None
+None
+Eng 0 2
+None
+Hin 0 1
+None
+Eng 8 9
+None
+Eng 2 5
+Eng 13 14
+None
+Eng 13 16
+Eng 8 9
+None
+Eng 31 32
+Eng 20 22
+None
+None
+Eng 7 12
+None
+None
+Eng 6 8
+None
+None
+Eng 4 5
+None
+None
+Eng 28 30
+Eng 5 6
+None
+None
+Eng 14 15
+None
+None
+None
+None
+None
+Eng 5 6
+Eng 0 2
+Eng 5 7
+None
+Eng 4 6
+None
+None
+None
+None
+None
+Eng 11 12
+None
+None
+Eng 3 4
+None
+None
+None
+None
+Eng 7 11
+None
+None
+Eng 1 5
+Eng 2 4
+None
+None
+None
+None
+None
+None
+Eng 8 9
+None
+Eng 2 3
+None
+None
+None
+None
+None
+Eng 6 7
+Eng 4 5
+None
+None
+None
+None
+Hin 0 2
+Eng 6 8
+None
+None
+None
+Eng 6 8
+Eng 0 1
+Eng 10 12
+None
+Eng 3 4
+None
+Eng 1 4
+Eng 6 7
+None
+Hin 0 1
+Hin 2 3
+Hin 5 8
+None
+None
+None
+None
+None
+None
+Eng 8 10
+Eng 10 11
+None
+None
+Eng 0 1
+Eng 0 1
+Eng 7 8
+None
+None
+Eng 6 9
+None
+None
+None
+Eng 0 1
+Eng 0 1
+Eng 0 1
+None
+None
+None
+Eng 2 3
+None
+Eng 2 5
+Hin 2 4
+Eng 3 6
+None
+Eng 0 2
+Eng 9 10
+None
+Eng 3 4
+Eng 5 7
+Eng 9 10
+None
+Eng 9 10
+Hin 6 9
+None
+Eng 6 8
+Eng 3 5
+Eng 6 9
+None
+None
+Eng 11 13
+None
+Eng 10 12
+None
+None
+Eng 0 1
+Eng 5 7
+Hin 3 5
+Eng 11 12
+Eng 0 2
+Eng 2 3
+Eng 3 4
+Eng 1 3
+Eng 30 37
+None
+None
+None
+Hin 4 6
+None
+Eng 7 8
+None
+Eng 5 7
+Eng 3 4
+Eng 0 1
+Eng 0 1
+None
+None
+None
+Eng 7 9
+None
+None
+Eng 2 3
+None
+Eng 1 3
+Eng 19 22
+Hin 3 6
+None
+None
+Eng 8 9
+Eng 0 4
+None
+None
+Hin 6 10
+Eng 4 5
+Eng 7 8
+Eng 1 3
+Eng 4 6
+Eng 0 1
+None
+Eng 11 15
+Eng 0 1
+Eng 6 7
+Eng 0 1
+Eng 1 4
+Eng 13 14
+None
+Eng 11 12
+None
+Eng 16 17
+None
+None
+None
+Eng 11 12
+Eng 10 12
+Hin 2 3
+Eng 2 3
+Eng 1 5
+None
+None
+None
+Eng 5 7
+None
+None
+None
+Eng 5 6
+Hin 4 6
+None
+Hin 5 9
+None
+None
+Eng 1 2
+None
+Eng 9 11
+Eng 0 1
+None
+Eng 1 3
+None
+None
+None
+Hin 2 5
+Hin 4 5
+Eng 5 7
+Eng 3 4
+Eng 5 6
+None
+None
+None
+None
+None
+None
+None
+Eng 4 5
+Eng 0 1
+None
+None
+Eng 0 1
+None
+None
+None
+None
+Eng 7 8
+Eng 0 1
+None
+None
+Eng 3 7
+None
+None
+None
+None
+None
+Eng 0 2
+None
+None
+Eng 1 4
+None
+None
+Eng 2 4
+None
+Eng 4 7
+None
+None
+None
+Eng 8 9
+None
+None
+None
+Eng 20 21
+None
+Eng 36 41
+Eng 1 3
+Eng 5 7
+Eng 22 23
+Eng 0 1
+Eng 11 14
+Eng 5 6
+Eng 21 24
+None
+None
+None
+None
+None
+Eng 8 9
+None
+None
+Eng 0 4
+None
+Eng 12 13
+Eng 6 7
+None
+Eng 0 1
+Eng 2 4
+Eng 1 3
+Eng 7 9
+Hin 4 8
+None
+Eng 11 12
+None
+None
+None
+Eng 10 12
+Eng 11 13
+Eng 8 9
+None
+Eng 1 3
+Eng 1 2
+None
+None
+Eng 0 2
+Eng 7 9
+Eng 8 10
+None
+None
+Eng 15 18
+Eng 0 2
+None
+None
+Hin 2 3
+None
+None
+Eng 9 11
+Eng 19 20
+Eng 3 4
+Eng 3 5
+None
+Eng 7 8
+Eng 0 1
+Eng 8 10
+Eng 6 8
+Eng 2 4
+None
+Eng 1 3
+Eng 13 14
+Eng 10 12
+Eng 1 2
+None
+Eng 15 17
+None
+None
+None
+Eng 0 1
+Eng 2 3
+None
+Eng 6 8
+Hin 1 2
+None
+Eng 26 29
+None
+None
+None
+None
+Eng 22 24
+None
+Eng 21 24
+Eng 20 22
+None
+Eng 7 11
+None
+None
+None
+None
+None
+Eng 2 4
+Eng 7 13
+None
+Eng 29 34
+Eng 1 5
+None
+None
+Eng 7 9
+Eng 11 17
+None
+None
+None
+None
+None
+Eng 9 10
+Eng 7 8
+None
+None
+None
+Eng 0 2
+None
+Eng 13 17
+None
+None
+None
+None
+Eng 6 7
+None
+None
+Hin 0 1
+None
+Hin 6 10
+None
+None
+Eng 28 32
+Eng 23 25
+None
+None
+Eng 9 12
+Eng 24 28
+None
+Eng 0 1
+None
+None
+None
+None
+None
+None
+None
+Eng 3 4
+None
+Hin 6 7
+None
+None
+Eng 0 1
+None
+None
+None
+Eng 4 5
+Eng 6 9
+Eng 0 2
+None
+None
+Eng 4 7
+None
+None
+None
+None
+None
+Eng 27 30
+None
+Eng 4 5
+Eng 0 1
+None
+None
+None
+Eng 7 9
+None
+Hin 0 3
+None
+None
+Eng 0 2
+Hin 0 1
+Eng 7 8
+Eng 19 22
+Eng 5 6
+Eng 0 1
+None
+None
+None
+None
+None
+None
+Eng 0 2
+None
+None
+Eng 4 5
+None
+None
+Eng 3 4
+None
+Eng 14 15
+None
+Eng 2 4
+Eng 0 1
+None
+None
+None
+None
+None
+None
+Eng 6 7
+Eng 3 4
+None
+None
+Eng 6 9
+Eng 9 10
+None
+Eng 10 11
+Eng 5 6
+None
+Hin 4 5
+Eng 5 6
+None
+None
+None
+None
+None
+None
+Eng 0 6
+None
+Hin 1 4
+None
+Eng 3 4
+None
+None
+Eng 8 10
+Eng 1 2
+None
+None
+Eng 11 12
+None
+None
+Eng 6 7
+None
+None
+None
+None
+None
+Eng 17 20
+None
+None
+None
+None
+None
+None
+None
+None
+Eng 0 2
+None
+None
+None
+Eng 4 6
+None
+None
+None
+None
+None
+None
+None
+Eng 0 5
+Eng 9 10
+None
+None
+None
+Eng 6 9
+None
+Eng 4 5
+Eng 5 6
+Eng 17 20
+None
+None
+None
+None
+None
+Eng 3 5
+Eng 3 4
+None
+None
+Eng 3 4
+None
+None
+Eng 0 1
+Eng 0 2
+Eng 4 6
+None
+Eng 14 18
+Eng 0 3
+Eng 7 11
+Eng 4 5
+Eng 6 7
+None
+Eng 4 5
+None
+None
+None
+None
+Eng 4 5
+None
+Eng 2 4
+Eng 30 36
+None
+None
+None
+None
+Eng 11 12
+Eng 16 18
+None
+Eng 6 7
+None
+None
+None
+Eng 35 39
+None
+None
+None
+None
+None
+Eng 7 9
+None
+Hin 3 6
+Eng 4 6
+Eng 3 5
+None
+Eng 31 32
+None
+None
+Eng 0 1
+Eng 3 7
+None
+Eng 8 10
+Eng 11 13
+None
+None
+Eng 19 22
+Eng 13 14
+Hin 0 1
+Hin 0 3
+Eng 7 8
+Eng 2 3
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+Eng 25 29
+None
+None
+None
+None
+Eng 0 3
+None
+None
+None
+None
+None
+None
+None
+Eng 1 2
+None
+None
+None
+Eng 4 6
+None
+None
+Hin 5 6
+None
+Eng 0 2
+None
+None
+None
+None
+None
+None
+Eng 7 8
+Eng 8 10
+Hin 7 10
+None
+None
+Eng 3 5
+None
+None
+Eng 2 4
+None
+None
+None
+Eng 0 1
+Hin 1 4
+Eng 6 7
+None
+None
+Eng 0 1
+None
+None
+None
+None
+None
+None
+Eng 2 3
+Eng 1 3
+None
+None
+Eng 3 4
+None
+None
+None
+Eng 3 4
+Eng 5 6
+None
+Eng 5 6
+None
+None
+Eng 7 8
+Eng 2 3
+None
+Eng 0 1
+None
+None
+None
+None
+Eng 2 4
+Hin 0 1
+None
+None
+Eng 8 12
+None
+None
+None
+Eng 4 5
+Eng 4 8
+Eng 2 3
+Eng 0 2
+Eng 2 4
+None
+None
+None
+None
+Eng 0 1
+Eng 9 10
+None
+Eng 9 10
+None
+Eng 2 5
+Eng 7 8
+Eng 3 4
+None
+Eng 0 2
+None
+None
+Eng 0 2
+None
+Eng 3 4
+None
+Eng 20 21
+None
+None
+None
+Eng 25 26
+None
+None
+Eng 2 3
+None
+None
+None
+Eng 14 16
+None
+Hin 6 8
+None
+None
+Hin 0 2
+None
+None
+None
+Hin 0 3
+Eng 13 14
+None
+Hin 2 3
+Eng 4 6
+None
+None
+None
+Eng 0 3
+Eng 8 10
+Hin 0 2
+Eng 7 8
+Eng 4 7
+None
+None
+None
+None
+None
+Eng 5 6
+Eng 0 1
+Eng 5 7
+None
+None
+None
+None
+None
+None
+None
+None
+None
+Eng 2 3
+Eng 2 4
+None
+None
+None
+None
+None
+Hin 2 3
+None
+Eng 7 8
+Hin 0 1
+None
+None
+Eng 17 19
+None
+None
+None
+None
+Eng 11 12
+None
+None
+None
+None
+Eng 9 10
+None
+None
+None
+None
+None
+Hin 1 4
+Eng 8 9
+None
+Eng 16 22
+Hin 2 5
+None
+None
+Eng 2 3
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+Eng 3 4
+None
+Eng 2 4
+None
+Eng 5 8
+Eng 4 6
+Eng 0 1
+None
+Eng 2 4
+None
+Eng 10 12
+None
+None
+Eng 2 4
+None
+None
+None
+Eng 4 5
+None
+None
+None
+None
+Hin 2 4
+Eng 3 6
+Eng 0 1
+None
+None
+None
+Eng 7 8
+None
+None
+Eng 5 7
+None
+None
+None
+None
+Eng 5 6
+Eng 0 1
+Eng 3 4
+Eng 1 2
+None
+None
+None
+None
+None
+None
+None
+None
+None
+Eng 4 5
+None
+Eng 1 4
+None
+None
+None
+None
+None
+None
+None
+None
+Eng 7 8
+None
+None
+None
+None
+None
+None
+Eng 4 5
+None
+Eng 2 4
+None
+Eng 3 4
+None
+None
+Eng 0 1
+Eng 3 4
+None
+None
+None
+Eng 1 3
+None
+Eng 0 2
+None
+Eng 3 6
+None
+None
+Eng 0 1
+None
+None
+Eng 4 6
+Eng 0 2
+None
+None
+None
+Eng 4 5
+None
+None
+None
+Eng 18 20
+Eng 29 30
+Eng 3 5
+None
+None
+None
+Eng 1 3
+None
+Eng 4 6
+None
+Eng 14 16
+Eng 1 3
+Eng 10 14
+Eng 1 6
+Eng 42 45
+Eng 3 5
+Eng 0 1
+Eng 14 16
+Eng 11 12
+None
+Eng 4 7
+Eng 7 10
+None
+Eng 38 41
+Eng 4 6
+None
+Hin 0 2
+None
+Eng 23 25
+None
+Eng 0 2
+Eng 0 2
+Eng 11 12
+None
+None
+Eng 6 7
+Eng 0 1
+None
+None
+None
+Eng 13 17
+Hin 0 2
+None
+Eng 9 10
+None
+None
+None
+Eng 1 2
+Eng 11 13
+Eng 3 5
+None
+Hin 0 3
+None
+Eng 2 3
+None
+None
+None
+Hin 1 5
+Eng 0 1
+None
+None
+None
+Hin 0 5
+None
+Eng 6 9
+Eng 0 2
+None
+None
+Eng 3 4
+None
+Eng 16 18
+Hin 0 4
+Eng 5 6
+None
+None
+Eng 8 10
+None
+None
+None
+None
+Eng 2 3
+None
+Eng 14 16
+Eng 6 8
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+Eng 5 6
+None
+Eng 1 3
+Eng 2 3
+None
+Eng 6 7
+None
+Eng 10 12
+None
+None
+Hin 2 3
+Eng 19 20
+None
+Eng 3 4
+Eng 2 3
+None
+Eng 0 2
+Eng 14 15
+Eng 6 10
+Eng 3 4
+None
+Eng 4 5
+Eng 3 5
+Eng 3 5
+None
+None
+Eng 0 1
+Eng 2 3
+None
+None
+Eng 11 12
+None
+Eng 7 9
+None
+None
+Eng 3 4
+Eng 27 31
+None
+None
+None
+Eng 6 8
+Eng 6 7
+Eng 9 10
+None
+Hin 0 4
+Eng 5 6
+None
+None
+None
+Eng 12 13
+Eng 0 1
+None
+Eng 4 5
+Eng 4 6
+None
+Eng 6 8
+None
+None
+None
+None
+None
+None
+None
+Eng 17 19
+None
+Eng 0 1
+None
+None
+None
+None
+None
+None
+Hin 7 10
+None
+None
+None
+None
+None
+Eng 6 7
+Eng 3 5
+Eng 7 9
+None
+Eng 0 3
+Eng 0 1
+Eng 3 4
+Eng 0 2
+None
+None
+None
+Eng 10 15
+Eng 6 8
+Eng 0 2
+None
+None
+Eng 14 18
+Eng 8 9
+None
+None
+Eng 4 5
+Eng 32 33
+None
+None
+Eng 0 1
+None
+None
+None
+Eng 8 10
+Eng 5 6
+None
+Eng 0 3
+Eng 5 6
+Eng 12 15
+None
+None
+None
+None
+None
+None
+None
+Eng 6 8
+None
+Eng 5 6
+Eng 5 6
+Eng 7 12
+None
+None
+None
+None
+None
+None
+None
+None
+Eng 7 8
+None
+Eng 1 2
+None
+None
+Eng 6 7
+None
+Eng 0 2
+None
+None
+None
+None
+Eng 2 3
+None
+Eng 5 6
+Eng 5 7
+Eng 5 6
+None
+Eng 4 6
+Eng 4 8
+None
+None
+None
+None
+Eng 10 11
+None
+Eng 12 13
+Eng 1 4
+None
+Eng 13 14
+Eng 0 1
+None
+None
+None
+None
+None
+None
+Eng 1 3
+Eng 1 2
+None
+Eng 1 3
+None
+Eng 7 9
+None
+None
+None
+None
+None
+Eng 6 7
+Eng 5 9
+Eng 7 8
+Eng 1 2
+None
+None
+Eng 5 6
+Eng 15 16
+None
+None
+Eng 15 16
+Eng 2 4
+None
+None
+None
+None
+None
+Eng 19 20
+Eng 14 16
+None
+None
+Eng 3 4
+Eng 10 11
+None
+None
+None
+None
+None
+Eng 0 1
+None
+None
+Eng 17 21
+None
+None
+None
+None
+Eng 3 4
+Eng 0 1
+None
+None
+Eng 8 10
+None
+Eng 3 5
+None
+None
+None
+Hin 5 8
+Eng 2 4
+None
+Eng 5 7
+Eng 1 2
+None
+Eng 1 2
+None
+Eng 8 9
+Eng 8 12
+None
+Eng 7 10
+None
+Eng 2 3
+Eng 10 11
+None
+None
+None
+None
+None
+None
+Eng 12 13
+None
+Eng 2 3
+Eng 5 6
+Eng 25 28
+None
+None
+None
+None
+None
+None
+Eng 0 2
+None
+Eng 1 2
+None
+None
+None
+Eng 3 4
+Eng 0 1
+None
+Eng 8 9
+Eng 0 1
+None
+None
+None
+None
+None
+Hin 0 1
+None
+None
+Eng 5 6
+None
+Eng 3 4
+None
+None
+Hin 2 4
+None
+None
+Eng 0 2
+Hin 2 4
+None
+Eng 1 3
+None
+Eng 18 22
+Eng 3 4
+None
+None
+Eng 6 7
+None
+None
+None
+None
+None
+None
+None
+Eng 19 20
+None
+None
+Eng 0 2
+Eng 8 9
+None
+None
+None
+Eng 21 22
+Eng 2 4
+Eng 11 12
+Eng 20 23
+None
+Eng 3 5
+None
+None
+Eng 13 14
+Hin 6 8
+Hin 0 2
+None
+Eng 0 3
+Eng 11 12
+Eng 13 14
+Eng 16 19
+Eng 3 5
+None
+None
+Eng 19 22
+None
+None
+None
+None
+Eng 14 16
+Eng 6 8
+None
+Eng 5 9
+None
+None
+None
+None
+None
+Eng 5 6
+Eng 4 5
+Eng 12 15
+None
+None
+None
+None
+Eng 0 1
+None
+None
+None
+None
+None
+Eng 0 1
+Eng 8 9
+None
+None
+None
+None
+None
+Eng 5 8
+Eng 25 27
+Eng 4 5
+Eng 6 9
+Eng 0 1
+None
+None
+Eng 2 3
+None
+Eng 3 4
+None
+None
+None
+None
+Eng 5 7
+None
+None
+None
+Eng 3 7
+None
+Hin 2 3
+Eng 0 1
+Eng 0 1
+Eng 3 4
+None
+None
+Eng 1 3
+None
+None
+Eng 7 9
+None
+None
+None
+None
+Eng 4 5
+None
+Eng 3 5
+None
+None
+Eng 6 8
+Eng 4 6
+None
+None
+Eng 3 5
+Eng 10 12
+Eng 1 2
+None
+Eng 5 7
+None
+Eng 5 6
+None
+None
+Eng 0 3
+None
+None
+None
+None
+None
+Eng 30 33
+Eng 3 4
+None
+None
+None
+None
+None
+Eng 3 4
+Eng 0 1
+Hin 4 5
+Eng 12 13
+None
+Hin 17 20
+Eng 0 2
+Eng 4 5
+Eng 14 16
+Eng 29 32
+Eng 8 9
+None
+None
+Eng 4 6
+Eng 7 9
+Eng 0 3
+None
+Hin 7 10
+Eng 8 10
+Eng 1 2
+Eng 16 18
+Eng 7 10
+Eng 3 4
+None
+None
+Eng 7 8
+Eng 0 1
+Eng 8 10
+Hin 6 9
+Eng 25 29
+Eng 37 41
+Eng 8 11
+Eng 0 1
+None
+None
+None
+Eng 9 11
+None
+None
+None
+None
+Eng 6 8
+Eng 30 32
+None
+Eng 7 11
+None
+None
+None
+Eng 0 2
+Hin 0 5
+None
+None
+None
+None
+None
+Eng 8 13
+Eng 13 14
+Eng 12 13
+Eng 0 1
+None
+Eng 2 4
+None
+None
+None
+None
+Hin 0 2
+Eng 9 10
+Eng 13 14
+Eng 0 2
+Hin 14 19
+Eng 0 1
+Eng 7 9
+Eng 2 3
+Eng 2 4
+None
+Hin 7 11
+None
+None
+Eng 1 3
+None
+None
+Eng 3 4
+None
+None
+Eng 2 6
+None
+None
+None
+None
+Hin 0 3
+None
+None
+Eng 5 6
+None
+Eng 25 27
+None
+None
+Eng 18 20
+None
+Eng 6 8
+Eng 0 1
+Eng 0 1
+Eng 2 3
+Eng 4 5
+Eng 2 3
+None
+Eng 0 1
+None
+None
+None
+None
+None
+None
+Eng 3 6
+Eng 0 1
+None
+None
+None
+None
+Eng 0 2
+Eng 4 6
+None
+None
+Eng 3 4
+Eng 2 4
+Eng 4 6
+None
+None
+Eng 0 1
+None
+Eng 27 28
+Eng 23 26
+Eng 6 7
+None
+None
+None
+Eng 9 11
+None
+Eng 1 2
+Eng 3 4
+None
+Eng 0 7
+None
+None
+None
+Eng 0 3
+Eng 41 42
+Eng 29 34
+None
+Eng 2 4
+Hin 0 5
+Eng 19 22
+Eng 6 10
+Eng 14 15
+None
+None
+None
+Eng 25 28
+None
+None
+None
+None
+Eng 7 8
+Eng 12 14
+None
+None
+Eng 11 12
+None
+None
+None
+None
+Eng 0 2
+None
+Eng 4 5
+None
+None
+Eng 0 1
+Eng 4 8
+Eng 1 6
+Eng 33 36
+None
+Eng 0 1
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+Hin 3 6
+None
+None
+Hin 20 23
+None
+None
+None
+None
+None
+None
+None
+Eng 14 18
+Eng 6 8
+None
+None
+None
+None
+None
+None
+None
+Eng 4 7
+None
+Eng 9 10
+Eng 41 46
+Hin 2 4
+None
+None
+None
+None
+None
+None
+None
+Eng 0 2
+Eng 0 3
+None
+None
+None
+None
+None
+None
+None
+None
+Hin 0 2
+Eng 7 11
+Eng 11 14
+None
+None
+None
+None
+Eng 0 1
+Eng 9 13
+Hin 0 1
+Eng 5 6
+Eng 10 13
+None
+Eng 6 9
+Eng 0 1
+Hin 0 1
+None
+Eng 8 9
+Eng 0 3
+Eng 4 5
+None
+Eng 4 6
+None
+Hin 2 4
+None
+Eng 11 12
+None
+None
+None
+None
+None
+None
+None
+Eng 7 8
+None
+None
+Hin 2 3
+None
+Eng 9 11
+None
+Eng 9 10
+Eng 3 6
+Hin 3 5
+None
+None
+None
+Eng 0 1
+Eng 0 3
+Hin 2 3
+Eng 0 1
+None
+Eng 3 4
+Eng 13 14
+Eng 0 2
+None
+Eng 0 2
+Hin 3 4
+None
+Eng 3 6
+Hin 0 1
+None
+None
+None
+None
+None
+None
+None
+Eng 29 30
+None
+Eng 0 1
+None
+Eng 33 34
+None
+None
+None
+None
+Eng 5 7
+None
+Hin 0 2
+Eng 17 20
+None
+None
+None
+None
+None
+Eng 16 17
+None
+Eng 16 19
+Eng 16 19
+None
+Eng 3 5
+None
+Eng 6 7
+Eng 1 5
+None
+None
+None
+None
+None
+None
+None
+Eng 8 10
+Hin 3 5
+Eng 12 14
+Eng 3 4
+Eng 0 1
+Eng 15 17
+None
+None
+None
+None
+None
+None
+Eng 3 4
+None
+None
+Hin 3 4
+None
+Eng 1 2
+Hin 4 5
+None
+Eng 3 4
+Eng 2 3
+Eng 0 1
+Eng 5 6
+None
+None
+Eng 6 7
+None
+Eng 4 7
+Eng 0 2
+Eng 8 11
+None
+Eng 6 7
+None
+Eng 1 4
+None
+Eng 0 4
+None
+Eng 14 16
+Hin 0 1
+None
+None
+Eng 8 12
+Eng 0 1
+None
+Eng 7 8
+Eng 10 11
+Eng 9 10
+Eng 9 10
+Eng 6 9
+None
+Eng 2 4
+Eng 10 13
+None
+Eng 4 6
+None
+None
+Eng 0 1
+Eng 13 21
+Eng 1 3
+Eng 7 9
+None
+None
+Hin 0 2
+Eng 9 11
+None
+None
+None
+None
+None
+Eng 2 3
+Hin 2 4
+Eng 0 1
+None
+None
+None
+Eng 6 8
+None
+Hin 0 1
+Hin 2 3
+None
+None
+Eng 16 20
+Hin 2 4
+Eng 6 7
+Eng 12 15
+None
+None
+Hin 2 4
+None
+None
+None
+None
+None
+Eng 5 6
+None
+Hin 3 4
+None
+Eng 0 2
+None
+Eng 2 4
+Eng 0 2
+None
+None
+Hin 3 4
+Eng 6 14
+Hin 4 5
+None
+Eng 3 6
+None
+None
+Eng 4 6
+Eng 0 2
+None
+Eng 7 8
+Eng 3 5
+Hin 2 3
+Eng 3 5
+None
+None
+None
+None
+Eng 4 8
+Eng 2 4
+Eng 2 4
+Eng 0 1
+Eng 6 9
+None
+Hin 2 3
+None
+Eng 6 7
+Eng 5 6
+None
+Hin 5 6
+Eng 11 12
+Eng 0 1
+Eng 10 12
+None
+None
+Eng 2 3
+None
+Eng 2 3
+Eng 3 5
+None
+None
+None
+Eng 2 3
+None
+Eng 0 1
+Hin 0 1
+Eng 0 1
+None
+None
+None
+None
+Eng 4 5
+None
+Eng 2 3
+None
+None
+None
+None
+None
+Eng 1 3
+Eng 12 15
+None
+None
+None
+Eng 4 6
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+Eng 19 21
+None
+Eng 29 31
+None
+Eng 1 2
+None
+Hin 2 3
+None
+Eng 1 2
+None
+None
+None
+None
+Eng 16 17
+Eng 10 11
+Eng 1 3
+None
+Eng 13 16
+Eng 5 7
+None
+Eng 1 2
+Eng 4 6
+Eng 0 1
+Hin 1 2
+None
+None
+None
+None
+Eng 2 5
+Eng 2 4
+Eng 3 5
+Eng 4 5
+Eng 0 3
+None
+None
+Eng 5 6
+None
+Hin 1 4
+Eng 12 14
+Eng 6 9
+None
+Eng 2 3
+Eng 23 27
+Eng 4 5
+None
+Eng 10 17
+Eng 12 13
+Eng 0 1
+Hin 3 6
+None
+None
+None
+Eng 2 4
+Hin 2 4
+None
+Eng 6 8
+Eng 7 10
+None
+Eng 23 24
+Eng 9 11
+None
+None
+None
+None
+None
+Eng 0 3
+None
+Eng 1 3
+None
+Eng 23 24
+Eng 10 11
+None
+Eng 0 1
+None
+Eng 11 13
+Eng 0 2
+Eng 2 5
+None
+Eng 3 7
+Eng 0 1
+Eng 6 7
+Eng 2 3
+None
+Eng 9 16
+None
+None
+None
+Hin 0 1
+None
+None
+None
+Eng 10 11
+Eng 0 5
+None
+None
+None
+None
+None
+None
+None
+None
+Eng 8 10
+Eng 0 1
+Eng 22 25
+None
+None
+Eng 0 1
+Eng 4 6
+None
+None
+None
+Eng 4 6
+None
+Eng 31 33
+None
+Eng 0 1
+None
+Eng 0 1
+None
+None
+Eng 0 2
+None
+Eng 3 4
+None
+None
+None
+Hin 3 4
+None
+Eng 0 1
+Hin 2 3
+None
+Eng 3 7
+None
+None
+None
+None
+None
+Eng 0 1
+None
+None
+None
+Eng 16 18
+Eng 2 3
+Eng 2 4
+Eng 0 1
+None
+Eng 7 9
+None
+Eng 0 1
+None
+None
+None
+Eng 28 33
+None
+Eng 4 7
+None
+Eng 39 41
+None
+None
+Eng 3 5
+Eng 0 1
+None
+Eng 18 19
+None
+None
+None
+None
+None
+Eng 0 2
+None
+Eng 5 6
+None
+None
+Eng 15 19
+Eng 18 19
+Eng 20 28
+Eng 18 19
+None
+Eng 4 5
+None
+Eng 12 15
+None
+Eng 1 3
+None
+Eng 3 4
+Eng 23 26
+None
+Eng 0 2
+None
+None
+None
+Eng 16 17
+Eng 14 17
+Hin 2 4
+Eng 4 5
+Eng 14 19
+Eng 0 1
+None
+Hin 3 5
+None
+None
+None
+Eng 18 19
+Eng 0 2
+None
+None
+None
+None
+None
+Eng 24 25
+None
+None
+None
+None
+Eng 4 6
+None
+Eng 15 17
+Eng 0 1
+None
+None
+None
+None
+None
+None
+None
+Eng 0 2
+Eng 3 6
+None
+None
+Eng 0 3
+None
+None
+None
+None
+None
+None
+None
+None
+None
+Eng 2 5
+None
+None
+Eng 0 1
+None
+None
+Eng 3 4
+None
+None
+None
+None
+None
+None
+None
+Eng 9 11
+Eng 9 10
+Eng 20 21
+None
+Hin 4 7
+None
+None
+Eng 21 24
+Eng 0 2
+None
+Eng 0 3
+Eng 0 1
+Eng 25 27
+None
+None
+Eng 8 9
+None
+None
+Hin 6 8
+Eng 0 2
+None
+None
+None
+Eng 1 2
+None
+None
+None
+None
+Eng 19 20
+None
+Eng 11 14
+None
+None
+None
+None
+Eng 0 1
+None
+Eng 2 3
+None
+Eng 8 9
+Eng 0 1
+None
+Eng 9 11
+None
+Eng 0 1
+None
+None
+None
+None
+Eng 5 6
+None
+None
+Eng 3 4
+None
+Eng 29 32
+Eng 6 9
+Eng 5 6
+None
+None
+Eng 26 28
+None
+Eng 10 12
+None
+Eng 7 13
+None
+Eng 17 19
+Eng 0 1
+None
+None
+Eng 10 13
+None
+Eng 28 29
+None
+Eng 4 5
+Eng 1 2
+Eng 26 27
+Eng 11 15
+None
+None
+None
+None
+None
+None
+None
+Eng 0 2
+None
+None
+Eng 20 21
+None
+None
+Eng 0 1
+None
+None
+None
+None
+None
+Eng 4 5
+None
+Eng 0 2
+None
+None
+Eng 2 5
+None
+None
+Eng 0 1
+None
+None
+None
+Hin 1 3
+None
+None
+Eng 0 3
+None
+Eng 1 3
+None
+None
+None
+Hin 0 1
+Eng 0 3
+Eng 4 5
+Eng 59 61
+None
+Eng 6 7
+None
+Eng 3 4
+Eng 18 19
+None
+Eng 0 7
+Eng 13 14
+None
+None
+None
+Eng 7 9
+None
+None
+None
+None
+Eng 4 5
+None
+Eng 2 4
+Eng 8 9
+Hin 2 3
+None
+None
+None
+Eng 0 3
+Eng 10 11
+None
+None
+Eng 36 42
+None
+Eng 12 14
+Eng 39 40
+Eng 6 8
+None
+Eng 5 8
+None
+None
+Eng 5 7
+Eng 6 7
+None
+Eng 17 19
+None
+Eng 2 3
+None
+None
+Eng 0 2
+None
+Eng 0 2
+None
+Eng 2 6
+Eng 0 1
+None
+None
+Eng 4 5
+None
+Eng 0 4
+Eng 4 5
+None
+None
+None
+Eng 0 1
+Eng 4 6
+Eng 20 23
+Eng 5 7
+Eng 6 8
+None
+Eng 0 2
+Eng 0 1
+None
+Eng 0 5
+None
+None
+Eng 18 21
+None
+None
+None
+Eng 0 1
+None
+None
+None
+Eng 25 28
+None
+Hin 0 5
+None
+Eng 18 20
+None
+None
+Hin 6 8
+Eng 6 7
+None
+Eng 12 14
+Eng 21 23
+Eng 0 4
+Eng 9 10
+None
+None
+None
+Eng 17 18
+Eng 6 8
+None
+None
+None
+Eng 0 3
+None
+None
+None
+Eng 5 6
+None
+None
+Eng 8 10
+None
+Eng 0 3
+Eng 0 4
+None
+Eng 9 10
+Eng 18 19
+Eng 3 6
+Eng 9 10
+Eng 12 14
+Eng 6 8
+None
+None
+Hin 9 13
+Eng 7 8
+None
+None
+None
+Eng 5 7
+None
+None
+Eng 0 2
+Eng 3 5
+None
+None
+None
+Eng 3 5
+None
+None
+None
+None
+None
+None
+Eng 0 3
+None
+None
+None
+None
+Eng 3 6
+Eng 9 11
+Eng 7 8
+Eng 4 6
+Eng 35 37
+None
+None
+None
+Eng 0 3
+Eng 3 4
+Eng 3 4
+None
+None
+Eng 0 2
+Hin 3 5
+None
+Eng 16 19
+Eng 6 7
+None
+None
+None
+None
+None
+Eng 28 29
+None
+Eng 1 2
+None
+Eng 7 11
+None
+None
+None
+None
+None
+None
+Eng 11 16
+Eng 15 17
+None
+None
+None
+None
+None
+Eng 10 11
+None
+Eng 7 8
+None
+None
+Eng 5 6
+None
+Eng 9 10
+None
+Eng 0 1
+None
+Eng 0 1
+None
+None
+Eng 0 2
+None
+Eng 0 1
+None
+None
+None
+None
+None
+None
+Eng 14 20
+None
+None
+None
+None
+None
+None
+Eng 5 7
+Eng 4 5
+Eng 10 12
+None
+None
+Eng 10 11
+None
+Eng 3 6
+None
+Eng 5 7
+None
+None
+None
+Eng 14 16
+None
+None
+None
+Eng 0 3
+None
+Eng 2 3
+Hin 7 9
+Hin 0 7
+Eng 6 11
+Eng 1 3
+Eng 0 5
+Hin 6 11
+Eng 4 6
+Hin 0 6
+Eng 8 12
+Hin 0 4
+Eng 7 10
+Hin 11 14
+Hin 10 12
+Hin 6 8
+Hin 5 7
+None
+Hin 3 6
+Eng 3 4
+None
+None
+None
+Eng 7 9
+None
+Eng 2 4
+None
+Eng 10 11
+Hin 0 3
+Eng 3 4
+Eng 10 11
+None
+Eng 7 13
+Eng 11 12
+Eng 0 2
+None
+None
+None
+Eng 1 3
+Hin 8 10
+Eng 5 9
+Eng 3 5
+Hin 2 4
+Eng 5 9
+Eng 9 10
+None
+Eng 2 4
+Eng 8 10
+Eng 2 4
+Eng 7 8
+Eng 2 6
+Hin 7 10
+Eng 7 9
+Hin 18 22
+Hin 0 5
+Eng 5 7
+Eng 0 1
+None
+Eng 3 5
+Hin 0 1
+None
+Eng 2 3
+Eng 0 3
+Hin 2 5
+None
+Eng 0 1
+Eng 2 4
+None
+None
+Eng 0 2
+None
+None
+Eng 0 2
+Eng 8 10
+Eng 5 7
+Hin 5 8
+Eng 0 2
+None
+Eng 5 6
+Eng 6 8
+Eng 0 2
+Hin 10 13
+Hin 15 19
+Hin 7 11
+Eng 4 7
+Eng 8 11
+None
+Eng 9 11
+None
+Eng 3 4
+Eng 1 5
+Eng 6 7
+Eng 2 5
+Eng 3 6
+Eng 1 5
+Eng 5 8
+Eng 2 6
+Eng 9 14
+Eng 0 3
+Eng 0 3
+Eng 9 11
+Eng 0 1
+Hin 0 3
+None
+Eng 2 5
+Eng 0 3
+Eng 3 4
+Eng 4 6
+None
+Eng 2 5
+Eng 0 1
+Hin 9 13
+Eng 5 6
+Hin 2 4
+Eng 0 1
+Eng 0 1
+Hin 0 2
+Hin 0 2
+Hin 3 5
+Eng 7 8
+Eng 5 7
+Hin 4 6
+None
+Eng 2 7
+Hin 3 6
+None
+Hin 7 8
+Eng 0 1
+Eng 5 6
+Eng 6 12
+Eng 6 8
+Hin 5 6
+Hin 0 5
+None
+Hin 0 6
+Eng 0 1
+Eng 0 2
+Eng 1 3
+Hin 0 1
+Hin 10 15
+Eng 0 4
+Hin 0 6
+Hin 0 4
+Eng 3 4
+Eng 6 8
+Eng 0 2
+Hin 0 3
+Hin 3 6
+Eng 7 13
+Eng 4 6
+Eng 1 2
+Eng 2 6
+Eng 2 3
+Eng 0 3
+None
+Hin 0 3
+None
+Hin 0 5
+Eng 0 1
+Eng 0 2
+Eng 7 9
+None
+None
+Eng 8 12
+Eng 7 8
+Eng 1 3
+Eng 6 8
+Hin 0 3
+Eng 11 15
+Hin 0 7
+None
+Eng 0 2
+Eng 1 4
+Hin 5 8
+Eng 7 8
+Eng 7 10
+Eng 3 8
+Hin 0 4
+None
+None
+Eng 0 2
+None
+None
+Hin 4 6
+Eng 2 6
+Hin 4 6
+Eng 6 7
+None
+Eng 6 9
+Eng 6 12
+Hin 0 6
+Eng 1 3
+Eng 1 3
+Hin 0 5
+Eng 6 7
+None
+Eng 4 6
+Eng 8 10
+None
+None
+Eng 0 2
+None
+Hin 5 7
+None
+None
+Eng 0 6
+Hin 0 1
+Eng 11 13
+Hin 0 4
+Eng 0 2
+Hin 3 7
+Eng 0 2
+Hin 4 7
+Hin 0 3
+Hin 0 10
+Eng 4 6
+Hin 0 6
+Hin 0 2
+Hin 0 5
+Eng 0 1
+Eng 2 4
+Eng 4 5
+None
+Eng 5 7
+None
+Hin 1 3
+Hin 0 2
+None
+Hin 7 11
+Eng 5 8
+Eng 0 2
+Hin 3 7
+None
+Hin 4 7
+Eng 0 4
+Hin 6 10
+Hin 0 2
+Hin 12 15
+Eng 4 6
+Eng 0 1
+Hin 7 12
+Hin 3 7
+Hin 0 1
+Eng 8 13
+Hin 5 10
+Eng 6 10
+Eng 0 2
+Eng 4 9
+Eng 2 4
+None
+Eng 0 2
+Hin 6 10
+Eng 0 8
+None
+None
+Hin 0 1
+Hin 3 4
+Eng 6 9
+Eng 2 4
+None
+Hin 6 8
+Hin 0 5
+Eng 1 3
+Hin 12 14
+Eng 0 3
+Eng 8 11
+Eng 12 14
+Eng 4 5
+Hin 3 6
+Hin 0 2
+Eng 1 9
+Hin 2 5
+Eng 10 12
+Eng 6 9
+None
+Eng 4 6
+Eng 5 9
+None
+Eng 0 4
+Hin 0 6
+Hin 0 2
+Eng 1 4
+Eng 0 2
+Eng 4 6
+Hin 3 5
+Eng 0 1
+Eng 6 8
+Eng 2 5
+Eng 2 4
+Hin 0 1
+Hin 5 7
+Hin 4 7
+Hin 4 6
+Hin 2 4
+Hin 1 3
+Eng 0 2
+Eng 3 6
+Hin 5 9
+Hin 11 13
+Hin 5 6
+Hin 0 5
+Hin 8 11
+Eng 0 1
+Eng 0 2
+Eng 0 3
+Eng 0 4
+None
+None
+Hin 10 11
+Hin 6 8
+Eng 0 1
+Hin 3 5
+Eng 1 4
+Hin 3 5
+None
+Eng 2 3
+None
+Eng 4 6
+None
+None
+Eng 0 1
+Eng 1 4
+Hin 3 6
+None
+None
+Eng 0 1
+Eng 4 6
+None
+Hin 4 5
+Eng 4 6
+Eng 1 5
+Eng 7 9
+Eng 0 1
+None
+Eng 2 4
+Eng 6 8
+Eng 0 1
+Eng 0 1
+None
+Eng 0 3
+Hin 3 6
+None
+Eng 0 3
+Eng 2 3
+Eng 0 4
+None
+Eng 6 7
+Eng 3 4
+Eng 0 2
+None
+Hin 0 3
+None
+Hin 3 4
+Eng 2 4
+Hin 8 12
+Eng 1 2
+Hin 4 6
+Hin 3 6
+None
+Hin 11 15
+Eng 0 2
+Eng 1 2
+Hin 8 11
+Eng 3 4
+Eng 1 3
+Hin 0 6
+Eng 1 4
+Eng 5 6
+Eng 7 12
+Eng 8 11
+None
+Eng 10 16
+Hin 2 6
+Eng 3 5
+Eng 0 3
+Hin 4 6
+Hin 7 8
+Hin 8 13
+Eng 8 10
+None
+Eng 7 8
+None
+Eng 0 5
+Eng 8 10
+Eng 1 2
+Eng 10 13
+Eng 2 3
+Eng 0 4
+Eng 3 6
+None
+Eng 0 2
+None
+Eng 4 6
+Eng 6 9
+Hin 0 2
+Eng 1 2
+Eng 2 4
+Eng 0 1
+Hin 0 2
+Eng 0 1
+Eng 4 5
+Eng 2 4
+Eng 4 6
+Hin 3 5
+Eng 2 4
+None
+Hin 2 4
+Eng 6 7
+Eng 3 4
+Eng 9 11
+Eng 1 3
+Eng 6 8
+Eng 3 4
+Eng 0 2
+Eng 1 3
+Eng 5 8
+Eng 8 9
+Eng 0 1
+None
+Eng 6 8
+Hin 4 7
+Eng 9 12
+Eng 3 5
+Hin 3 6
+Eng 3 5
+Eng 3 6
+Eng 14 18
+Eng 2 3
+None
+Eng 0 5
+None
+Hin 8 11
+Hin 0 4
+Eng 0 2
+Eng 4 5
+Eng 2 4
+Eng 2 3
+Eng 1 2
+Eng 1 2
+Eng 0 1
+Eng 1 3
+Eng 4 6
+Hin 7 10
+Eng 3 5
+Hin 4 6
+Eng 11 14
+Eng 4 5
+None
+Eng 7 8
+Eng 0 3
+Eng 4 6
+Eng 9 13
+Hin 5 7
+Hin 6 9
+Eng 1 2
+Eng 3 7
+Eng 6 9
+Hin 0 3
+Eng 5 7
+Eng 0 6
+Eng 2 3
+Eng 0 2
+Eng 4 5
+Hin 8 15
+Eng 10 17
+Eng 0 2
+Eng 0 1
+Eng 0 1
+Eng 0 2
+None
+Hin 3 5
+Hin 0 7
+Hin 5 7
+None
+Eng 0 1
+Hin 5 6
+Eng 2 5
+Hin 0 2
+Hin 8 12
+Eng 1 2
+None
+Eng 1 2
+Hin 14 19
+None
+Eng 4 5
+Hin 0 4
+Eng 6 7
+None
+Hin 3 5
+Eng 1 3
+None
+None
+Eng 0 1
+Eng 0 1
+None
+Eng 5 8
+Eng 1 2
+None
+Eng 2 3
+Eng 11 13
+None
+Hin 4 8
+None
+None
+Eng 0 2
+None
+Eng 7 10
+Eng 0 1
+Eng 1 5
+None
+Hin 5 8
+Hin 0 2
+Eng 3 5
+None
+Eng 3 6
+Eng 4 5
+None
+None
+None
+Eng 1 3
+None
+Eng 3 4
+Eng 5 9
+Eng 0 2
+Eng 1 2
+Eng 0 7
+Eng 1 2
+Hin 0 3
+Eng 7 10
+Eng 0 1
+Hin 1 4
+Eng 13 16
+Eng 5 6
+Hin 3 7
+Hin 2 4
+Eng 0 2
+Eng 0 1
+None
+Hin 0 1
+Eng 1 3
+Eng 6 8
+None
+Eng 0 1
+None
+Eng 3 5
+Eng 0 1
+Hin 3 6
+Eng 0 1
+Eng 4 7
+Eng 0 2
+Hin 4 6
+None
+None
+Eng 0 1
+Eng 2 4
+Hin 0 1
+Eng 0 3
+None
+None
+Eng 2 3
+None
+None
+Eng 0 4
+None
+Eng 2 3
+Eng 3 4
+Eng 4 5
+None
+None
+Eng 6 8
+Eng 0 2
+Hin 11 13
+Hin 5 7
+None
+Hin 7 10
+Eng 8 11
+Eng 0 2
+None
+Hin 8 10
+Eng 0 1
+Eng 0 1
+Eng 7 11
+None
+Eng 3 7
+Eng 0 2
+Eng 6 8
+Eng 0 2
+Eng 0 1
+Hin 0 5
+Hin 0 1
+Hin 5 8
+Eng 0 2
+Eng 0 2
+Hin 4 8
+Hin 2 6
+Eng 0 1
+Hin 3 6
+Hin 6 11
+Hin 0 1
+Hin 0 3
+Eng 0 3
+None
+Hin 2 3
+Eng 4 5
+Eng 8 11
+Eng 11 12
+Eng 0 1
+Eng 0 2
+Eng 0 3
+None
+Hin 6 8
+Eng 0 2
+Eng 8 10
+None
+Eng 0 1
+Eng 0 2
+Eng 6 8
+Eng 0 2
+Eng 7 8
+Eng 0 2
+Eng 3 5
+Eng 2 4
+Hin 4 6
+Hin 2 4
+Hin 4 6
+Eng 4 5
+None
+Eng 0 2
+Hin 5 7
+Eng 17 19
+Eng 1 3
+Eng 0 2
+Hin 7 9
+Hin 0 6
+Eng 8 14
+Hin 5 8
+None
+Hin 7 8
+Hin 4 6
+Eng 0 2
+Eng 0 1
+Eng 9 17
+Eng 0 2
+Eng 7 9
+Hin 4 8
+Hin 3 5
+Eng 5 7
+Hin 0 1
+None
+None
+Eng 1 2
+Eng 7 8
+Eng 3 7
+Eng 2 5
+Eng 1 3
+Hin 0 2
+None
+None
+Eng 1 3
+Eng 6 9
+None
+Eng 1 3
+Hin 0 1
+Eng 11 15
+None
+Eng 3 4
+Eng 2 3
+None
+Eng 0 1
+Eng 0 2
+Eng 0 1
+Hin 3 5
+None
+None
+None
+Eng 0 1
+Eng 2 3
+Hin 0 3
+None
+Eng 1 3
+Eng 7 10
+Eng 0 2
+Eng 0 1
+Eng 3 4
+Eng 0 2
+Hin 6 7
+Eng 0 3
+Eng 0 2
+Eng 7 10
+Eng 0 3
+Eng 0 1
+Eng 2 4
+None
+Eng 3 4
+Eng 3 5
+Eng 1 3
+None
+None
+Hin 5 9
+Eng 1 3
+Eng 0 2
+Eng 0 1
+Hin 3 6
+Eng 0 3
+None
+Hin 3 5
+Eng 0 2
+Eng 0 2
+None
+Hin 0 3
+None
+Eng 3 5
+Eng 0 1
+None
+Eng 0 1
+Hin 5 7
+Eng 2 4
+Eng 4 6
+Eng 0 2
+Eng 0 1
+Eng 2 3
+Eng 0 2
+None
+Eng 2 3
+None
+Hin 2 3
+Eng 5 8
+Eng 0 1
+None
+None
+Eng 1 2
+None
+Eng 5 6
+Eng 1 2
+Eng 9 10
+None
+None
+None
+None
+None
+None
+Eng 0 1
+Eng 2 3
+Eng 3 7
+None
+Eng 9 10
+None
+None
+Eng 0 1
+Eng 2 3
+Eng 3 5
+Eng 3 5
+Hin 0 5
+Eng 6 7
+None
+Hin 0 3
+Hin 3 5
+Eng 0 1
+Hin 6 9
+Hin 0 1
+Eng 0 2
+Eng 0 2
+None
+Eng 4 5
+Eng 0 1
+None
+Eng 5 6
+Eng 2 4
+Eng 4 5
+Eng 0 2
+Eng 1 2
+Hin 0 3
+Hin 0 3
+Hin 5 9
+Eng 0 2
+Hin 7 11
+Eng 2 4
+None
+None
+Eng 4 5
+Eng 0 1
+Eng 4 6
+Eng 0 2
+Eng 0 1
+Eng 1 5
+Eng 2 3
+None
+None
+None
+Hin 7 12
+Eng 3 4
+Eng 0 1
+None
+None
+Hin 0 5
+Eng 5 7
+Eng 3 4
+None
+None
+None
+None
+Hin 7 10
+None
+Eng 3 4
+Eng 4 7
+Eng 4 6
+Hin 0 2
+Eng 3 5
+Eng 0 3
+Eng 0 2
+Eng 0 2
+None
+Hin 2 4
+Eng 6 8
+Eng 6 9
+Eng 1 5
+Eng 1 3
+None
+None
+Eng 0 1
+Eng 2 5
+Eng 0 2
+Eng 5 6
+Eng 1 3
+None
+Eng 0 1
+Eng 3 5
+Eng 1 5
+Hin 4 5
+Hin 0 5
+None
+Eng 0 2
+Eng 7 8
+Hin 0 4
+None
+None
+None
+Eng 0 1
+Eng 0 1
+None
+Hin 0 2
+Eng 4 5
+Hin 0 2
+Hin 3 6
+None
+Eng 1 4
+Hin 0 2
+Eng 5 7
+Eng 4 5
+Eng 2 4
+None
+Eng 4 6
+Eng 1 4
+Hin 0 3
+None
+Eng 3 5
+Hin 0 2
+Eng 0 2
+Hin 7 9
+Eng 3 8
+Hin 2 6
+Eng 2 5
+Eng 7 11
+Eng 2 4
+Eng 0 2
+Hin 1 3
+Eng 2 3
+None
+Eng 5 6
+Eng 12 13
+None
+Eng 5 8
+Eng 5 6
+None
+Eng 6 8
+Eng 5 7
+Eng 3 4
+Eng 1 2
+None
+Hin 5 7
+Eng 2 5
+Eng 1 3
+Eng 4 5
+None
+Hin 2 5
+Hin 0 3
+Eng 2 3
+Eng 4 6
+Eng 4 6
+Eng 11 12
+None
+Eng 0 1
+Hin 5 6
+Eng 1 3
+Eng 4 5
+Eng 3 4
+Eng 0 3
+None
+None
+Hin 0 1
+None
+Eng 0 4
+Eng 0 2
+Hin 6 8
+Eng 5 7
+None
+Eng 7 10
+Hin 0 3
+Hin 2 4
+None
+Hin 4 6
+None
+Hin 0 3
+Eng 8 11
+Hin 0 1
+Eng 3 5
+Eng 2 3
+Eng 1 2
+Eng 1 2
+Eng 6 10
+Eng 4 5
+Eng 4 7
+Eng 6 9
+None
+None
+None
+Hin 7 10
+Eng 1 3
+Eng 0 2
+Eng 2 3
+Eng 0 3
+Eng 0 2
+Eng 6 8
+Eng 0 5
+Eng 1 3
+Eng 5 6
+None
+Hin 5 7
+None
+Eng 2 3
+Hin 0 3
+None
+Eng 0 2
+Eng 0 2
+None
+None
+Eng 6 10
+Hin 5 7
+None
+Eng 0 2
+Hin 3 5
+Eng 3 4
+Eng 0 2
+Hin 6 12
+Eng 0 2
+Eng 9 16
+Hin 3 7
+Hin 0 6
+Hin 3 8
+Hin 5 8
+Hin 0 8
+Hin 7 10
+Eng 0 2
+Eng 0 2
+Eng 1 2
+Eng 1 5
+Eng 1 2
+Hin 7 13
+Hin 0 5
+Eng 0 1
+Eng 0 3
+Hin 0 2
+Eng 3 4
+Eng 2 4
+Eng 8 9
+Eng 0 2
+Eng 0 3
+Eng 7 9
+Eng 5 8
+Eng 4 6
+None
+Eng 5 9
+Hin 6 9
+Eng 4 7
+Eng 0 2
+Eng 1 2
+Eng 2 3
+Eng 0 3
+Eng 0 1
+None
+Eng 0 2
+Eng 3 4
+Eng 3 4
+Eng 4 6
+Eng 0 1
+Eng 7 8
+None
+Eng 4 5
+Hin 1 3
+Eng 0 1
+None
+Hin 3 9
+Eng 6 8
+Eng 0 1
+Eng 4 7
+None
+Eng 4 8
+Hin 7 9
+Hin 3 5
+Hin 5 9
+Hin 11 15
+Hin 3 6
+Eng 0 1
+Hin 5 6
+Hin 4 6
+Eng 1 3
+Eng 2 4
+Eng 5 6
+Eng 2 4
+Hin 6 9
+Eng 1 3
+None
+Eng 2 3
+Eng 0 2
+Eng 5 7
+Eng 6 9
+Eng 6 8
+None
+None
+Eng 1 3
+None
+None
+Eng 7 8
+None
+Eng 1 4
+Eng 1 4
+None
+None
+Hin 3 4
+Hin 0 1
+None
+None
+Eng 0 2
+Eng 6 7
+None
+Hin 0 4
+None
+Eng 0 1
+Eng 0 1
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+Eng 0 1
+Eng 0 1
+Eng 5 6
+None
+Eng 2 4
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+Eng 19 21
+None
+None
+None
+None
+Hin 9 10
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+Eng 1 4
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+Eng 0 1
+None
+None
+None
+None
+None
+None
+None
+None
+Eng 0 2
+None
+None
+None
+None
+None
+None
+None
+Eng 2 3
+None
+None
+None
+Eng 1 2
+Eng 0 2
+Hin 0 2
+Eng 1 2
+None
+None
+Hin 0 3
+None
+None
+Eng 3 6
+None
+None
+None
+None
+None
+None
+None
+None
+None
+Eng 5 6
+None
+None
+None
+None
+None
+Eng 6 8
+None
+None
+None
+None
+None
+None
+None
+None
+None
+Eng 0 1
+Eng 5 8
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+Eng 0 2
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+Eng 1 2
+Eng 3 4
+None
+None
+None
+None
+None
+None
+Eng 6 7
+None
+None
+None
+None
+None
+Eng 0 1
+None
+None
+None
+None
+Eng 3 4
+None
+None
+None
+None
+None
+None
+None
+None
+None
+Eng 4 5
+None
+None
+Eng 0 1
+None
+Eng 0 3
+None
+None
+None
+None
+Eng 3 5
+None
+None
+None
+Eng 0 2
+None
+Eng 3 5
+None
+None
+None
+Eng 12 14
+Eng 1 3
+None
+None
+None
+Hin 0 2
+None
+None
+None
+None
+Eng 0 2
+Eng 0 1
+None
+None
+None
+Eng 2 4
+None
+Eng 3 4
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+Hin 1 2
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+Hin 1 2
+None
+None
+None
+None
+None
+None
+None
+Eng 5 7
+Eng 0 1
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+Eng 1 3
+Hin 2 3
+None
+Hin 3 4
+None
+None
+None
+None
+None
+None
+None
+Hin 3 4
+Hin 1 2
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+Eng 1 4
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+Eng 3 4
+None
+None
+Hin 0 1
+None
+None
+Eng 2 3
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+Hin 0 1
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+Hin 0 1
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+Eng 2 3
+None
+None
+None
+None
+Eng 0 1
+None
+None
+None
+None
+None
+None
+Eng 1 3
+None
+None
+None
+None
+None
+None
+Eng 0 1
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+Eng 4 5
+None
+None
+None
+Eng 9 10
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+Eng 0 1
+None
+None
+None
+None
+Eng 3 4
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+Hin 1 2
+Eng 3 6
+None
+None
+Eng 1 4
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+Hin 9 10
+None
+None
+None
+None
+None
+None
+Hin 1 2
+None
+None
+None
+None
+None
+None
+None
+None
+None
+Eng 0 1
+None
+None
+None
+Eng 0 2
+None
+None
+None
+Eng 0 1
+None
+None
+Eng 3 4
+Eng 2 4
+None
+Eng 9 10
+None
+Hin 0 3
+None
+None
+None
+None
+Hin 1 3
+Eng 0 1
+Eng 4 6
+None
+Eng 6 8
+None
+Eng 2 3
+None
+None
+Eng 12 15
+None
+Eng 5 7
+Eng 16 17
+None
+Eng 25 26
+None
+None
+None
+None
+Eng 17 19
+None
+None
+Eng 2 4
+Eng 8 10
+None
+Eng 0 1
+None
+None
+None
+None
+None
+None
+Eng 0 3
+None
+Eng 8 11
+None
+None
+None
+Eng 1 3
+Hin 5 8
+Eng 2 6
+Hin 0 2
+Eng 11 15
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+Eng 2 4
+None
+None
+None
+None
+None
+None
+None
+None
+Eng 12 14
+Eng 28 29
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+Eng 1 3
+None
+None
+None
+Eng 0 1
+Eng 1 2
+None
+None
+None
+None
+None
+None
+Eng 1 3
+None
+None
+None
+Eng 7 8
+None
+None
+None
+None
+None
+Eng 0 1
+Eng 3 4
+None
+None
+None
+Eng 4 6
+None
+None
+None
+Hin 13 15
+Hin 2 3
+None
+None
+None
+None
+None
+None
+Eng 1 3
+None
+None
+None
+Hin 0 2
+None
+None
+None
+Eng 3 6
+None
+None
+None
+Hin 5 9
+Eng 0 2
+Hin 4 5
+None
+None
+None
+None
+Eng 0 1
+None
+Hin 0 1
+Hin 0 1
+Eng 1 2
+None
+Hin 1 2
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+Eng 3 5
+None
+Eng 0 1
+None
+None
+None
+None
+Eng 1 2
+None
+Hin 0 3
+Eng 0 2
+Eng 5 6
+Eng 9 10
+Hin 2 8
+Hin 4 6
+Hin 12 19
+None
+Eng 4 7
+Eng 0 4
+Hin 10 12
+None
+Eng 3 5
+None
+Eng 3 4
+None
+None
+None
+None
+None
+None
+None
+Eng 0 1
+Eng 2 5
+Eng 4 6
+Eng 8 10
+Hin 2 5
+Eng 4 5
+Hin 11 15
+None
+None
+Eng 9 14
+Eng 0 1
+Eng 4 7
+Eng 8 10
+Eng 4 6
+Eng 0 2
+Eng 2 4
+Eng 0 2
+Eng 0 5
+None
+Hin 9 14
+Hin 2 5
+Hin 0 3
+Eng 3 5
+Eng 0 1
+None
+Eng 0 4
+Eng 1 3
+None
+Eng 3 8
+Hin 0 2
+Eng 6 9
+Hin 9 11
+Hin 4 6
+Eng 3 6
+Hin 6 8
+Eng 0 2
+Eng 3 4
+Hin 2 3
+None
+Hin 7 12
+Eng 4 5
+Hin 9 13
+None
+Eng 4 5
+Eng 0 2
+None
+Eng 4 7
+None
+None
+Eng 3 4
+Eng 2 5
+Eng 3 7
+Eng 3 4
+None
+Eng 6 10
+Eng 5 7
+Eng 10 16
+None
+Eng 0 1
+Eng 3 6
+Eng 0 1
+Eng 7 12
+None
+Hin 5 6
+Eng 2 3
+Hin 5 6
+Eng 3 5
+Eng 0 2
+Hin 0 2
+Eng 0 2
+Hin 0 1
+Eng 6 8
+Eng 3 4
+Eng 0 2
+Eng 5 8
+Hin 3 8
+None
+Eng 0 2
+Eng 0 4
+Eng 0 2
+Eng 0 1
+Eng 5 6
+Eng 6 8
+Eng 2 4
+Eng 7 8
+None
+Hin 0 3
+Hin 4 8
+Eng 0 6
+Hin 4 5
+Hin 3 5
+Hin 0 2
+Hin 1 4
+Eng 0 2
+Eng 0 2
+Eng 1 3
+Eng 7 10
+Hin 4 6
+Eng 4 8
+None
+Eng 3 7
+Eng 4 5
+Hin 7 9
+None
+Hin 2 4
+Hin 1 2
+Eng 6 7
+Eng 0 3
+Eng 0 1
+Eng 0 3
+Eng 0 1
+Eng 0 1
+Hin 1 5
+None
+Hin 7 9
+Eng 0 1
+None
+Eng 0 1
+None
+None
+None
+Eng 0 3
+Eng 2 4
+Eng 0 2
+Hin 10 15
+Hin 3 4
+Eng 0 1
+None
+Eng 8 11
+Eng 13 19
+Eng 0 2
+Eng 3 6
+Eng 3 8
+Eng 0 1
+Hin 3 6
+Eng 0 7
+Eng 8 11
+Eng 13 19
+Eng 0 2
+Eng 3 6
+Eng 3 8
+Eng 0 1
+Hin 3 6
+Eng 0 7
+Hin 0 4
+Eng 9 10
+Hin 6 8
+Eng 10 12
+Eng 0 1
+Eng 0 2
+Eng 8 9
+None
+None
+Eng 1 3
+None
+Eng 3 4
+Eng 0 3
+Hin 0 4
+Eng 0 4
+Hin 6 7
+Eng 4 5
+None
+Hin 5 8
+None
+Hin 6 9
+Eng 1 2
+Eng 0 1
+None
+None
+Hin 8 14
+None
+Eng 0 2
+Eng 2 7
+Eng 4 5
+Hin 0 1
+Hin 3 10
+Hin 5 9
+Eng 3 4
+Eng 0 1
+Eng 1 3
+Eng 5 7
+Eng 2 7
+Eng 0 2
+Eng 1 3
+None
+Hin 4 8
+None
+None
+Eng 8 11
+Eng 0 1
+Hin 6 9
+None
+Eng 0 4
+Hin 3 6
+Eng 0 2
+Hin 0 1
+None
+Eng 4 8
+Eng 0 1
+Eng 4 6
+Eng 0 2
+Hin 0 5
+Eng 0 2
+Hin 0 1
+Eng 10 15
+Hin 2 5
+Eng 1 2
+Hin 0 5
+Eng 7 10
+Hin 12 17
+Hin 4 8
+Eng 6 8
+Eng 1 6
+Hin 5 7
+Hin 10 13
+Eng 0 2
+Hin 5 8
+None
+Eng 1 3
+Hin 0 6
+Eng 4 7
+Eng 0 2
+None
+Hin 0 3
+None
+Eng 9 10
+Hin 8 12
+Hin 0 3
+Eng 6 8
+Eng 3 6
+Eng 10 15
+Eng 0 3
+Eng 1 3
+Eng 1 9
+Eng 8 10
+Eng 4 6
+Eng 2 4
+Eng 4 6
+Eng 0 2
+None
+Eng 0 2
+Eng 16 20
+Eng 9 10
+Eng 4 6
+Eng 0 2
+None
+Eng 0 1
+Hin 4 5
+Eng 0 3
+Hin 4 6
+Hin 3 6
+Eng 1 2
+Hin 2 4
+Eng 4 7
+None
+Eng 2 4
+Eng 10 12
+None
+Hin 2 4
+Hin 0 4
+Eng 4 5
+Eng 0 3
+Eng 3 7
+Eng 2 4
+None
+None
+Eng 2 3
+Eng 0 2
+Hin 9 14
+Hin 0 1
+Hin 13 16
+Eng 1 2
+None
+Eng 0 3
+Eng 7 10
+Eng 3 6
+None
+Hin 8 11
+None
+Eng 4 5
+Eng 2 4
+Eng 0 1
+Eng 9 16
+Eng 6 7
+Eng 1 4
+Hin 0 2
+Hin 0 3
+Hin 8 11
+Eng 10 13
+Hin 4 6
+Eng 0 2
+None
+Eng 2 8
+Eng 4 6
+Eng 2 4
+Eng 12 16
+None
+Eng 4 6
+Hin 6 8
+Eng 4 7
+Eng 2 3
+Eng 2 4
+Eng 0 1
+Eng 1 2
+Hin 4 6
+Eng 5 8
+Eng 0 3
+Eng 2 4
+None
+Eng 6 7
+Eng 2 5
+None
+Eng 0 2
+Hin 0 7
+Eng 7 9
+Hin 5 9
+Hin 0 5
+Eng 0 1
+Hin 3 6
+None
+Eng 0 2
+None
+None
+None
+Hin 9 18
+Hin 9 15
+Eng 0 1
+Hin 9 12
+Hin 0 1
+None
+Eng 3 5
+Hin 7 13
+Eng 5 8
+Hin 1 3
+Hin 4 6
+None
+None
+Hin 6 8
+None
+Eng 3 7
+Hin 0 5
+Hin 8 14
+Eng 2 3
+Hin 3 6
+Eng 2 3
+Eng 6 7
+Eng 2 3
+Eng 0 2
+Eng 3 5
+Eng 2 3
+Eng 0 2
+Eng 0 3
+Eng 0 2
+None
+Eng 2 4
+None
+Eng 3 5
+Eng 0 2
+Hin 10 14
+Hin 5 8
+None
+Hin 0 2
+Eng 6 7
+Hin 11 14
+Eng 0 1
+Eng 6 8
+Eng 2 3
+Eng 1 3
+Eng 5 8
+Hin 0 5
+Eng 5 6
+Hin 0 2
+None
+Eng 0 1
+Hin 2 3
+Eng 2 4
+Hin 0 4
+Eng 6 8
+Eng 0 5
+Hin 7 11
+Eng 0 1
+Hin 0 2
+Hin 0 3
+Hin 6 8
+Hin 5 9
+Eng 0 2
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+Hin 5 8
+None
+Eng 1 2
+Eng 11 12
+Eng 5 6
+None
+None
+None
+Eng 14 17
+None
+None
+None
+None
+Eng 6 7
+Eng 9 10
+None
+Eng 3 5
+None
+None
+None
+None
+None
+None
+Eng 0 1
+Eng 5 8
+Hin 4 5
+None
+None
+Eng 0 2
+Eng 5 6
+None
+None
+None
+None
+None
+None
+Eng 9 10
+None
+None
+Eng 6 7
+None
+Eng 0 1
+None
+None
+None
+None
+Eng 6 7
+Eng 0 2
+None
+None
+Eng 13 15
+Eng 3 4
+None
+None
+Eng 2 3
+None
+None
+Eng 4 5
+None
+Eng 10 11
+Eng 12 13
+None
+None
+Eng 3 4
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+Eng 2 3
+None
+None
+Eng 6 7
+None
+Eng 3 6
+None
+None
+None
+Eng 0 2
+None
+None
+Eng 1 3
+Hin 2 4
+None
+Eng 3 5
+None
+None
+Eng 11 12
+Eng 16 17
+None
+None
+Eng 0 2
+None
+Eng 10 12
+Eng 1 4
+None
+Eng 1 2
+None
+None
+Eng 3 4
+Eng 11 15
+None
+Eng 9 11
+None
+Eng 24 26
+None
+None
+None
+None
+Hin 5 8
+None
+None
+None
+Eng 10 11
+None
+None
+Eng 3 5
+None
+Hin 0 3
+Eng 5 6
+None
+Eng 7 8
+None
+Eng 3 4
+Eng 7 8
+None
+Eng 4 6
+None
+None
+None
+Eng 14 17
+None
+Eng 23 26
+None
+None
+Hin 0 1
+None
+None
+None
+None
+None
+None
+None
+None
+None
+Eng 13 14
+Eng 0 2
+None
+Hin 9 11
+None
+Hin 0 2
+None
+None
+None
+Eng 17 18
+None
+Eng 2 3
+Eng 1 2
+None
+None
+None
+None
+None
+None
+Eng 4 5
+None
+None
+None
+None
+Eng 5 6
+None
+None
+Eng 0 1
+None
+None
+Eng 3 4
+Eng 2 5
+None
+Eng 6 7
+None
+None
+None
+Eng 0 1
+None
+None
+Eng 2 4
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+Eng 4 6
+Eng 5 7
+None
+Eng 3 4
+None
+Eng 17 19
+None
+Eng 0 5
+None
+None
+None
+None
+None
+Eng 12 13
+Eng 6 8
+None
+None
+None
+Eng 3 6
+Eng 1 2
+None
+None
+Eng 19 22
+Eng 2 7
+None
+Eng 3 7
+None
+Eng 7 8
+None
+Eng 10 13
+None
+None
+Eng 16 18
+Hin 2 3
+None
+None
+None
+None
+None
+Eng 0 1
+None
+Eng 15 18
+None
+Eng 6 7
+Eng 15 16
+Eng 0 1
+None
+Eng 5 6
+None
+None
+None
+Eng 13 17
+None
+None
+None
+None
+None
+None
+None
+None
+Eng 2 5
+None
+None
+None
+Eng 24 26
+None
+None
+None
+Eng 5 6
+Eng 12 13
+None
+None
+Eng 9 12
+Eng 0 4
+Eng 8 9
+None
+None
+None
+None
+None
+Eng 6 9
+Eng 8 9
+None
+None
+None
+None
+Eng 23 25
+Eng 8 11
+Hin 0 2
+None
+Eng 23 26
+None
+None
+None
+None
+Eng 4 6
+None
+None
+None
+None
+Eng 8 9
+Hin 1 2
+None
+None
+None
+Eng 6 7
+None
+Eng 9 11
+Eng 5 6
+Eng 17 20
+Eng 2 3
+None
+None
+None
+Eng 3 6
+None
+Eng 9 11
+Eng 21 23
+Eng 0 4
+Eng 1 3
+None
+None
+None
+Eng 0 3
+Eng 16 17
+None
+Eng 7 8
+None
+None
+None
+Eng 0 1
+None
+None
+Eng 5 7
+None
+None
+Eng 0 1
+Eng 9 11
+Eng 1 3
+None
+None
+Eng 0 3
+None
+None
+Hin 0 3
+None
+Eng 10 12
+Eng 3 5
+Eng 4 6
+None
+None
+Eng 5 6
+None
+Eng 6 8
+Eng 7 8
+Eng 16 17
+None
+None
+None
+None
+Eng 7 8
+Eng 7 8
+None
+Eng 14 15
+Eng 26 29
+Eng 2 3
+Eng 2 3
+None
+None
+Eng 6 8
+None
+None
+Eng 0 2
+None
+Eng 8 10
+Eng 4 5
+None
+Eng 3 4
+None
+None
+None
+None
+None
+Eng 6 8
+Eng 7 8
+None
+Eng 1 2
+Eng 4 6
+Eng 5 6
+None
+None
+None
+None
+Eng 1 5
+Eng 4 5
+None
+Eng 3 4
+None
+Eng 13 15
+Eng 15 17
+None
+Hin 0 1
+None
+None
+Eng 11 13
+None
+Eng 0 2
+Eng 6 7
+None
+None
+Eng 9 11
+None
+Eng 4 7
+Eng 2 4
+None
+None
+Eng 3 5
+Eng 6 7
+None
+None
+None
+Eng 9 10
+None
+None
+Eng 6 8
+Eng 2 5
+None
+None
+None
+None
+None
+Eng 5 6
+Eng 7 11
+None
+None
+None
+None
+None
+None
+Hin 0 2
+None
+None
+Hin 3 5
+Eng 0 2
+Eng 7 9
+Eng 0 1
+None
+None
+Eng 2 4
+Eng 7 8
+Eng 4 5
+Eng 2 3
+None
+Eng 5 6
+None
+None
+None
+None
+None
+Hin 0 3
+None
+None
+None
+Eng 0 4
+None
+Eng 0 1
+None
+Eng 4 7
+None
+None
+None
+Eng 0 5
+Eng 9 13
+None
+None
+None
+None
+None
+None
+Eng 0 1
+None
+Eng 3 5
+None
+None
+None
+Eng 23 25
+None
+None
+None
+Eng 2 4
+Eng 0 2
+None
+None
+None
+None
+None
+None
+None
+None
+None
+Eng 11 14
+None
+None
+Eng 5 6
+Eng 2 4
+Eng 5 6
+Eng 6 8
+Eng 0 1
+None
+Eng 1 3
+None
+Eng 3 5
+None
+Eng 4 8
+None
+Eng 4 6
+None
+None
+None
+None
+Eng 11 12
+None
+Eng 38 39
+Eng 12 14
+Eng 2 3
+None
+Hin 2 3
+None
+Eng 9 10
+Eng 6 7
+None
+Eng 12 14
+None
+Eng 8 9
+Eng 8 10
+Eng 17 20
+Eng 11 15
+None
+Eng 15 16
+None
